@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+              android:background="#d3d3d3"
+             tools:context="com.robosoftin.assignment.myapplication.ui.CategoriesFragment">
+
+   <android.support.v7.widget.RecyclerView
+       android:id="@+id/cat_items"
+       android:layout_width="match_parent"
+       android:paddingLeft="15dp"
+       android:layout_marginRight="15dp"
+       android:layout_height="wrap_content">
+   </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

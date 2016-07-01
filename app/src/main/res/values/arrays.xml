@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="place_types">
+    <item>Atm</item>
+    <item>Bank</item>
+    <item>Hospital</item>
+    <item>School</item>
+    <item>Police</item>
+    <item>Pharmacy</item>
+    <item>University</item>
+    <item>Restaurant</item>
+    </string-array>
+</resources>
